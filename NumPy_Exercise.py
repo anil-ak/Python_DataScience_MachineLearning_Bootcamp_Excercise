@@ -167,5 +167,9 @@ array([55, 60, 65, 70, 75])
 '''
 print np.sum(mat, axis=0)
 
+'''
+above sum, std can be used mat.sum or mat.std as well
+'''
+
 
 
